@@ -6,7 +6,7 @@ const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 function App() {
-  let message = "Hi there, how are you?"
+  let message = "Hi there, how are you? Welcome to starting page"
   return (<h1>{message}</h1>);
 }
 
